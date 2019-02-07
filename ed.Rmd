@@ -19,7 +19,7 @@ The dataset of the daily energy needs (in GWh) between 2004 and 2010.
 
 ## Reseach questions:
 
-1. build a model for energy demand forecasting using time series analysis.
+1. build a model for energy demand forecasting using time series forecast.
 
 ## Structure of analysis:
 
